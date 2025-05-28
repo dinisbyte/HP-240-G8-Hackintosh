@@ -24,7 +24,7 @@ This repository contains EFI files for running macOS Sequoia on the HP 240 G8 la
 ## Status
 
 - **Working:** Graphics acceleration, Audio (Built-in Speakers and 3.5mm Jack), Battery status, USB ports, Sleep, Ethernet, Touchpad, Camera and Microphone.
-- **Works, but needs manual interation:** Samsung PM991 NVMe Drive (if you don't have this drive, you probably do not need to do this): due to drivers compability using the NVMeFix kext, getting the NVMe Drive to work is a bit complicated, but it essencially requires you to first install macOS in an external drive, until it asks for region settings, and only then clone the external drive to the internal one. This is an "fix", but when disk usage is too high, the write and read speed decreases substantially. If the fix is not done, the NVMe drive can heat up and even get damaged, be cautious.
+- **Works, but needs manual interaction:** Samsung PM991 NVMe Drive (if you don't have this drive, you probably do not need to do this): due to drivers compability using the NVMeFix kext, getting the NVMe Drive to work is a bit complicated, but it essencially requires you to first install macOS in an external drive, until it asks for region settings, and only then clone the external drive to the internal one. This is an "fix", but when disk usage is too high, the write and read speed decreases substantially. If the fix is not done, the NVMe drive can heat up and even get damaged, be cautious.
 - **Not Working:** Wi-Fi and Bluetooth (Realtek 8822CE unsupported, although Bluetooth can work as it's connected via USB), AirDrop (requires working wireless), HDMI Video.
 
 ## What's Included
