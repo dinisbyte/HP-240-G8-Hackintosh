@@ -24,7 +24,7 @@ This repository contains EFI files for running macOS Sequoia on the HP 240 G8 la
 ## Status
 
 - **Working:** Graphics acceleration, audio, battery status, HDMI, USB ports, sleep, Ethernet, touchpad
-- **Not Working:** Wi-Fi and Bluetooth (Realtek 8822CE unsupported), AirDrop (requires working wireless)
+- **Not Working:** Wi-Fi and Bluetooth (Realtek 8822CE unsupported, although Bluetooth can work as it's connected via USB), AirDrop (requires working wireless)
 
 ## What's Included
 
@@ -40,6 +40,7 @@ Anyone looking to get macOS running on this specific HP model. No prior Hackinto
 I plan to add:
 - A detailed guide and troubleshooting tips
 - Notes on kexts, BIOS settings, and post-install tweaks
+- Bluetooth working (maybe?)
 
 ---
 
