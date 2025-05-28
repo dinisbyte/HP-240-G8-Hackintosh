@@ -7,7 +7,7 @@ This repository contains EFI files for running macOS Sequoia on the HP 240 G8 la
 - **Model:** HP 240 G8
 - **CPU:** Intel Core i3-1005G1 (10th Gen, Ice Lake)
 - **GPU:** Integrated Intel UHD G1 Graphics
-- **RAM:** 8GB DDR4
+- **RAM:** 8GB DDR4 3200MHz
 - **Storage:** Samsung PM991 NVMe SSD
 - **Display:** 14" 1366x768
 - **Wi-Fi/Bluetooth:** Realtek 8822CE (*not working*)
