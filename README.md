@@ -10,7 +10,7 @@ This repository contains EFI files for running macOS on the HP 240 G8 laptop.
 - **RAM:** 8GB DDR4 3200MHz
 - **Storage:** Samsung PM991 256GB NVMe SSD (see Status for more info)
 - **Display:** Generic 14" 1366x768
-- **Wi-Fi/Bluetooth:** Non-stock Intel AX210 (Using itwlm and IntelBluetoothFirmware from @OpenIntelWireless)
+- **Wi-Fi/Bluetooth:** Non-stock Intel AX210 (Using itwlm and IntelBluetoothFirmware from OpenIntelWireless)
 - **Audio:** Realtek ALC236
 - **Ethernet:** Realtek GBE Family Controller
 - **Touchpad:** ELAN (don't use VoodooI2CELAN otherwise it won't work.)
