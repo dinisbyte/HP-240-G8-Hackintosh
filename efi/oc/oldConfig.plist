@@ -700,6 +700,24 @@
                     <key>Arch</key>
                     <string>Any</string>
                     <key>BundlePath</key>
+                    <string>RestrictEvents.kext</string>
+                    <key>Comment</key>
+                    <string>V1.1.5</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/RestrictEvents</string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext</string>
                     <key>Comment</key>
                     <string>V2.3.7</string>
@@ -1359,7 +1377,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>-noDC9 keepsyms=1 debug=0x100 alcid=13 igfxfw=2 -noht40 -igfxcdc -igfxdvmt -cdfon shikigva=1 -btlfxbeta</string>
+                    <string>-noDC9 keepsyms=1 debug=0x100 alcid=13 igfxfw=2 -noht40 -igfxcdc -igfxdvmt -cdfon shikigva=1 -btlfxbeta revpatch=sbvmm</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -1457,13 +1475,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02124104GUP8PGJC</string>
+                <string>C02131306QXP8PGAD</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>1oa1VRPr</data>
+                <data>REwMtVjS</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1471,9 +1489,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro16,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02FVKYEML7H</string>
+                <string>C02G5WY2ML7H</string>
                 <key>SystemUUID</key>
-                <string>4DADD8C5-EE48-4832-98D3-CD606C18EFDB</string>
+                <string>F521E3B5-D462-4B9B-A095-08505C9F1F90</string>
             </dict>
             <key>PlatformNVRAM</key>
             <dict>
@@ -1486,7 +1504,7 @@
                 <key>MLB</key>
                 <string>C02124104GUP8PGJC</string>
                 <key>ROM</key>
-                <data>1oa1VRPr</data>
+                <data>REwMtVjS</data>
                 <key>SystemSerialNumber</key>
                 <string>C02FVKYEML7H</string>
                 <key>SystemUUID</key>
