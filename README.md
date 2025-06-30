@@ -5,7 +5,7 @@ This repository contains EFI files for running macOS on the HP 240 G8 laptop.
 ## Hardware Specs
 
 - **Model:** HP 240 G8
-- **CPU:** Intel Core i3-1005G1 (10th Gen, Ice Lake Gen)
+- **CPU:** Intel Core i3-1005G1 (10th Gen, Ice Lake)
 - **GPU:** Integrated Intel UHD G1 Graphics
 - **RAM:** 8GB DDR4 3200MHz
 - **Storage:** Samsung PM991 256GB NVMe SSD (see Status for more info)
