@@ -32,7 +32,7 @@ This repository contains EFI files for running macOS on the HP 240 G8 laptop.
 
 - Pre-configured EFI files for a smooth Hackintosh installation on the HP 240 G8.
 - Currently supports macOS Sequoia.
-### - REMEMBER TO CHANGE SMBIOS SERIAL NUMBER OR YOU WON'T HAVE ISERVICES!
+#### - REMEMBER TO CHANGE SMBIOS!
 
 ## Who is this for?
 
