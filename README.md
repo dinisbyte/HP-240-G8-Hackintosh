@@ -17,8 +17,8 @@ This repository contains EFI files for running macOS on the HP 240 G8 laptop.
 
 ## Hackintosh Details
 
-- **Tested macOS Versions:** macOS Sequoia 15.5 and macOS
-- **Bootloader:** 1.0.4
+- **Tested macOS Versions:** macOS Sequoia 15.5 and macOS Ventura 13.7.6
+- **Opencore Bootloader Version:** 1.0.4
 - **SMBIOS:** MacBookPro 16,2 (for compatibility with macOS Tahoe in the future, you may use MacBookAir 9,1 if Sequoia or older is your target)
 
 ## Status
@@ -32,7 +32,7 @@ This repository contains EFI files for running macOS on the HP 240 G8 laptop.
 
 - Pre-configured EFI files for a smooth Hackintosh installation on the HP 240 G8.
 - Currently supports macOS Sequoia.
-### - REMEMBER TO CHANGE SMBIOS SERIAL NUMBER OR YOU WON'T HAVE ISERVICES!
+- REMEMBER TO CHANGE SMBIOS!
 
 ## Who is this for?
 
